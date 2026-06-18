@@ -39,7 +39,7 @@ Because missing a customer who is about to churn (False Negative) is highly expe
 | Metric | Score | Implication |
 | :--- | :--- | :--- |
 | **Recall** | **79%** | Successfully captures 79% of all actual churning customers. |
-| **ROC-AUC** | **0.83** | Demonstrates strong model discrimination power between churners and loyal customers. |
+| **ROC-AUC** | **83%** | Demonstrates strong model discrimination power between churners and loyal customers. |
 
 ---
 
